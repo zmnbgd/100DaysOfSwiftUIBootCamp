@@ -9,3 +9,4 @@
 * Introduction: Why Swift?
 * Introduction: About this course
 * Introduction: How to follow along
+* How to create variables and constants
