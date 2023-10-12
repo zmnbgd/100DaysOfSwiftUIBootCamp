@@ -10,4 +10,4 @@
 * Introduction: About this course
 * Introduction: How to follow along
 * How to create variables and constants
-  - [ ] Optional: Why does Swift have variables?
+  - [◦] Optional: Why does Swift have variables?
