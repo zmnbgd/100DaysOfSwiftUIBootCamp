@@ -11,3 +11,4 @@
 * Introduction: How to follow along
 * How to create variables and constants
   -  Optional: Why does Swift have variables?
+  -  Optional: Why does Swift have constants as well as variables?
