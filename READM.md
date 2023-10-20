@@ -14,3 +14,4 @@
   -  Optional: Why does Swift have constants as well as variables?
   -  Test: Variables
   -  Test: Constants
+* How to create strings
