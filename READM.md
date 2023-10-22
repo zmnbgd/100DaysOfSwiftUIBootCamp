@@ -18,5 +18,6 @@
    -  Optional: Why does Swift need multi-line strings?
    -  Test: Multi-line strings
 * How to store whole numbers
+   -  Test: Strings and integers
  
 
