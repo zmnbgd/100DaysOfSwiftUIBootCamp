@@ -19,5 +19,6 @@
    -  Test: Multi-line strings
 * How to store whole numbers
    -  Test: Strings and integers
+* How to store decimal numbers
  
 
