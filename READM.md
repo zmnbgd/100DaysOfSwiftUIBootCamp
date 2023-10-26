@@ -20,5 +20,6 @@
 * How to store whole numbers
    -  Test: Strings and integers
 * How to store decimal numbers
+   -  Optional: Why does Swift need both Doubles and Integers?
  
 
