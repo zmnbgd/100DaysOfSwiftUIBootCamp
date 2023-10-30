@@ -22,4 +22,6 @@
 * How to store decimal numbers
    -  Optional: Why does Swift need both Doubles and Integers?
  
+  #
+ - [x] <b>Day 2</b>
 
