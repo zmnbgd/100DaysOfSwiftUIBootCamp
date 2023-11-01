@@ -25,3 +25,4 @@
   #
  - [x] <b>Day 2</b>
 * How to store truth with Booleans
+  -  Test: Doubles and Booleans
