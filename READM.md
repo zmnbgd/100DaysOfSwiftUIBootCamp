@@ -27,3 +27,4 @@
 * How to store truth with Booleans
   -  Test: Doubles and Booleans
 * How to join strings together
+  -  Optional: Why does Swift have string interpolation?
