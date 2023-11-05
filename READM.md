@@ -30,3 +30,4 @@
   -  Optional: Why does Swift have string interpolation?
   -  Test: String interpolation
 * Summary: Simple data
+  -  Checkpoint 1
