@@ -31,3 +31,10 @@
   -  Test: String interpolation
 * Summary: Simple data
   -  Checkpoint 1
+ 
+  
+  #
+ - [x] <b>Day 3</b>
+* How to store ordered data in arrays
+
+
