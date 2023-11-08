@@ -5,7 +5,7 @@
 100 Days Of SwiftUI Challenge by Paul Hudson -> https://www.hackingwithswift.com/100/swiftui
 
 #
- - [x] <b>Day 1</b>
+- [x] <b>Day 1</b>
 * Introduction: Why Swift?
 * Introduction: About this course
 * Introduction: How to follow along
@@ -23,7 +23,7 @@
    -  Optional: Why does Swift need both Doubles and Integers?
  
   #
- - [x] <b>Day 2</b>
+  - [x] <b>Day 2</b>
 * How to store truth with Booleans
   -  Test: Doubles and Booleans
 * How to join strings together
@@ -34,7 +34,8 @@
  
   
   #
- - [x] <b>Day 3</b>
+  - [x] <b>Day 3</b>
 * How to store ordered data in arrays
+  -  Optional: Why does Swift have arrays? 
 
 
