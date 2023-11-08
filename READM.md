@@ -36,6 +36,7 @@
   #
   - [x] <b>Day 3</b>
 * How to store ordered data in arrays
-  -  Optional: Why does Swift have arrays? 
+  -  Optional: Why does Swift have arrays?
+  -  Test: Arrays
 
 
