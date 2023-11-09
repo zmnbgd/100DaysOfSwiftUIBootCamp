@@ -38,5 +38,6 @@
 * How to store ordered data in arrays
   -  Optional: Why does Swift have arrays?
   -  Test: Arrays
+* How to store and find data in dictionaries
 
 
