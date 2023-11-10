@@ -44,5 +44,6 @@
   -  Test: Dictionaries
   -  Test: Dictionary default values
 * How to use sets for fast data lookup
+  -  Optional: Why are sets different from arrays in Swift?
 
 
