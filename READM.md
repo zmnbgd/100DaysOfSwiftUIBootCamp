@@ -39,5 +39,6 @@
   -  Optional: Why does Swift have arrays?
   -  Test: Arrays
 * How to store and find data in dictionaries
+  -  Optional: Why does Swift have dictionaries as well as arrays?
 
 
