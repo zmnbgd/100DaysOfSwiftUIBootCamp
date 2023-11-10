@@ -42,5 +42,6 @@
   -  Optional: Why does Swift have dictionaries as well as arrays?
   -  Optional: Why does Swift have default values for dictionaries?
   -  Test: Dictionaries
+  -  Test: Dictionary default values
 
 
