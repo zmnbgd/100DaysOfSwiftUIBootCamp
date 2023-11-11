@@ -48,4 +48,5 @@
   -  Test: Sets
 * How to create and use enums
   -  Optional: Why does Swift need enums?
+  -  Test: Enumerations
 
