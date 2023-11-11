@@ -46,5 +46,5 @@
 * How to use sets for fast data lookup
   -  Optional: Why are sets different from arrays in Swift?
   -  Test: Sets
-
+* How to create and use enums
 
