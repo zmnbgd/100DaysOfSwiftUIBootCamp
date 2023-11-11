@@ -47,4 +47,5 @@
   -  Optional: Why are sets different from arrays in Swift?
   -  Test: Sets
 * How to create and use enums
+  -  Optional: Why does Swift need enums?
 
