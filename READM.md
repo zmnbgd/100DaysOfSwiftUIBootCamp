@@ -50,3 +50,12 @@
   -  Optional: Why does Swift need enums?
   -  Test: Enumerations
 
+
+
+  
+  #
+  - [x] <b>Day 4</b>
+* 
+
+
+
