@@ -55,7 +55,7 @@
   
   #
   - [x] <b>Day 4</b>
-* 
+* How to use type annotations
 
 
 
