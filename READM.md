@@ -56,6 +56,7 @@
   #
   - [x] <b>Day 4</b>
 * How to use type annotations
+  - Optional: Why does Swift have type annotations?
 
 
 
