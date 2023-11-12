@@ -57,6 +57,7 @@
   - [x] <b>Day 4</b>
 * How to use type annotations
   - Optional: Why does Swift have type annotations?
+  - Optional: Why would you want to create an empty collection?
 
 
 
