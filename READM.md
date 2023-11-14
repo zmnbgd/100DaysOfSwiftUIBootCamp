@@ -60,6 +60,7 @@
   - Optional: Why would you want to create an empty collection?
   - Test: Type annotations
 * Summary: Complex data
+* Checkpoint 2
 
 
 
