@@ -50,9 +50,6 @@
   -  Optional: Why does Swift need enums?
   -  Test: Enumerations
 
-
-
-  
   #
   - [x] <b>Day 4</b>
 * How to use type annotations
@@ -61,6 +58,9 @@
   - Test: Type annotations
 * Summary: Complex data
 * Checkpoint 2
+
+  #
+  - [x] <b>Day 5</b>
 
 
 
