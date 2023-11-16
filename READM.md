@@ -62,5 +62,6 @@
   #
   - [x] <b>Day 5</b>
 * How to check a condition is true or false
+  - Optional: How does Swift let us compare many types of data?
 
 
