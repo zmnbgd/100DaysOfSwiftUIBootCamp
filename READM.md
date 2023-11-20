@@ -64,6 +64,6 @@
 * How to check a condition is true or false
   - Optional: How does Swift let us compare many types of data?
 * How to check multiple conditions
-  _ Optional: What’s the difference between if and else if?
+  - Optional: What’s the difference between if and else if?
 
 
