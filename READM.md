@@ -66,5 +66,6 @@
 * How to check multiple conditions
   - Optional: What’s the difference between if and else if?
   - Optional: How to check multiple conditions
+  - Test: Conditions
 
 
