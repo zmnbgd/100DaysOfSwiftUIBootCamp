@@ -68,5 +68,6 @@
   - Optional: How to check multiple conditions
   - Test: Conditions
   - Test: Combining conditions
+* How to use switch statements to check multiple conditions
 
 
