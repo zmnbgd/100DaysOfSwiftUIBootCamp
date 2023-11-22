@@ -69,5 +69,6 @@
   - Test: Conditions
   - Test: Combining conditions
 * How to use switch statements to check multiple conditions
+  - Optional: When should you use switch statements rather than if?
 
 
