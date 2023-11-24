@@ -72,5 +72,6 @@
   - Optional: When should you use switch statements rather than if?
   - Test: Switch statements
 * How to use the ternary conditional operator for quick tests
+  - Optional: When should you use the ternary operator in Swift?
 
 
