@@ -74,5 +74,9 @@
 * How to use the ternary conditional operator for quick tests
   - Optional: When should you use the ternary operator in Swift?
   - Test: The ternary operator
+ 
+
+  #
+  - [x] <b>Day 6</b>
 
 
