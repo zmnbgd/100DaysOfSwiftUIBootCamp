@@ -79,5 +79,6 @@
   #
   - [x] <b>Day 6</b>
 * How to use a for loop to repeat work
+  - Optional: Why does Swift use underscores with loops?
 
 
