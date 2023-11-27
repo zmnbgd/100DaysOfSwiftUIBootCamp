@@ -82,5 +82,6 @@
   - Optional: Why does Swift use underscores with loops?
   - Optional: Why does Swift have two range operators?
   - Test: For loops
+* How to use a while loop to repeat work
 
 
