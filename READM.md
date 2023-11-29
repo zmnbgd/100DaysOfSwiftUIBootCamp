@@ -85,5 +85,6 @@
 * How to use a while loop to repeat work
   - Optional: When should you use a while loop?
   - Test: While loops
+* How to skip loop items with break and continue
 
 
