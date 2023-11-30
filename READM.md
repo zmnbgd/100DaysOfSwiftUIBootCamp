@@ -89,5 +89,6 @@
   - Optional: Why would you want to exit a loop?
   - Optional: Why does Swift have labeled statements?
   - Optional: When to use break and when to use continue
+  - Test: Exiting loops
 
 
