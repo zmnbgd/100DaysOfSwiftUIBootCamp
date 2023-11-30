@@ -86,5 +86,6 @@
   - Optional: When should you use a while loop?
   - Test: While loops
 * How to skip loop items with break and continue
+  - Optional: Why would you want to exit a loop?
 
 
