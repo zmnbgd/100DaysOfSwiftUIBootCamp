@@ -87,5 +87,6 @@
   - Test: While loops
 * How to skip loop items with break and continue
   - Optional: Why would you want to exit a loop?
+  - Optional: Why does Swift have labeled statements?
 
 
