@@ -91,5 +91,6 @@
   - Optional: When to use break and when to use continue
   - Test: Exiting loops
 * Summary: Conditions and loops
+* Checkpoint 3
 
 
