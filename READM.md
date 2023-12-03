@@ -94,3 +94,8 @@
 * Checkpoint 3
 
 
+
+  #
+  - [x] <b>Day 6</b>
+
+
