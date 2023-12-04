@@ -97,5 +97,6 @@
 
   #
   - [x] <b>Day 7</b>
+* How to reuse code with functions
 
 
