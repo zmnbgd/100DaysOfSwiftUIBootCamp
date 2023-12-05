@@ -101,5 +101,6 @@
    - Optional: What code should be put in a function?
    - Optional: How many parameters should a function accept?
    - Test: Writing functions
+   - Test: Accepting parameters
 
 
