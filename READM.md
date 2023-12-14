@@ -128,5 +128,6 @@
    - Test: Arrays vs sets vs tuples
   
  * How to customize parameter labels
+    - Optional: When should you omit a parameter label? 
 
 
