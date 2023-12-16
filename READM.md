@@ -112,7 +112,7 @@
 
    #
    - [x] <b>Day 7</b>
- * How to reuse code with functions
+1. [x] <b>How to reuse code with functions</b>
    - Optional: What code should be put in a function?
    - Optional: How many parameters should a function accept?
    - Test: Writing functions
