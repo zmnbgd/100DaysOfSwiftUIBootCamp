@@ -130,5 +130,11 @@
  * How to customize parameter labels
     - Optional: When should you omit a parameter label?
     - Test: Omitting parameter labels
+  
+
+
+
+   #
+   - [x] <b>Day 8</b>
 
 
