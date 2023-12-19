@@ -138,5 +138,6 @@
    - [x] <b>Day 8</b>
  * How to provide default values for parameters
    - Optional: When to use default parameters for functions
+   - Test: Default parameters
 
 
