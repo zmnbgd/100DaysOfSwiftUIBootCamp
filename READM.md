@@ -139,5 +139,7 @@
  * How to provide default values for parameters
    - Optional: When to use default parameters for functions
    - Test: Default parameters
+  
+ * How to handle errors in functions 
 
 
