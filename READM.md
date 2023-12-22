@@ -142,5 +142,6 @@
   
  * How to handle errors in functions
    - Optional: When should you write throwing functions?
+   - Optional: Why does Swift make us use try before every throwing function?
 
 
