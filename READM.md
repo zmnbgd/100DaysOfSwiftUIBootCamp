@@ -140,6 +140,7 @@
    - Optional: When to use default parameters for functions
    - Test: Default parameters
   
- * How to handle errors in functions 
+ * How to handle errors in functions
+   - Optional: When should you write throwing functions?
 
 
