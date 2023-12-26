@@ -144,5 +144,6 @@
    - Optional: When should you write throwing functions?
    - Optional: Why does Swift make us use try before every throwing function?
    - Test: Writing throwing functions
+   - Test: Running throwing functions
 
 
