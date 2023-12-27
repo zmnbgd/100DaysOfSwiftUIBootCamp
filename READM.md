@@ -146,4 +146,6 @@
    - Test: Writing throwing functions
    - Test: Running throwing functions
 
+ * Summary: Functions  
+
 
