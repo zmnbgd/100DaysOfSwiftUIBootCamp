@@ -146,6 +146,9 @@
    - Test: Writing throwing functions
    - Test: Running throwing functions
 
- * Summary: Functions  
+ * Summary: Functions
+
+ * Checkpoint 4
+ 
 
 
