@@ -158,6 +158,7 @@
  * How to create and use closures
    - Optional: What the heck are closures and why does Swift love them so much?
    - Optional: Why are Swift’s closure parameters inside the braces?
+   - Optional: How do you return a value from a closure that takes no parameters?
  
 
 
