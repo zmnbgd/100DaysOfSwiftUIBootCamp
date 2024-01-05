@@ -160,6 +160,7 @@
    - Optional: Why are Swift’s closure parameters inside the braces?
    - Optional: How do you return a value from a closure that takes no parameters?
    - Test: Creating basic closures
+   - Test: Accepting parameters in a closure
  
 
 
