@@ -161,6 +161,7 @@
    - Optional: How do you return a value from a closure that takes no parameters?
    - Test: Creating basic closures
    - Test: Accepting parameters in a closure
+   - Test: Returning values from a closure
  
 
 
