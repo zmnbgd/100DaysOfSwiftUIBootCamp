@@ -167,6 +167,7 @@
   
 2.</b> How to use trailing closures and shorthand syntax
    - Optional: Why does Swift have trailing closure syntax?
+   - Optional: When should you use shorthand parameter names?
  
 
 
