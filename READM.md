@@ -162,6 +162,8 @@
    - Test: Creating basic closures
    - Test: Accepting parameters in a closure
    - Test: Returning values from a closure
+  
+ * How to use trailing closures and shorthand syntax
  
 
 
