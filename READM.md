@@ -8,8 +8,7 @@
 - [x] <b>Day 1</b>
 
 1</b> Introduction: Why Swift?
-* Introduction: Why Swift?
-  
+
 * Introduction: About this course
   
 * Introduction: How to follow along
