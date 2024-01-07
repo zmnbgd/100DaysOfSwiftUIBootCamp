@@ -9,24 +9,24 @@
 
 1.</b> Introduction: Why Swift?
 
-* Introduction: About this course
+2.</b> Introduction: About this course
   
-* Introduction: How to follow along
+3.</b> Introduction: How to follow along
   
-* How to create variables and constants
+4.</b> How to create variables and constants
   -  Optional: Why does Swift have variables?
   -  Optional: Why does Swift have constants as well as variables?
   -  Test: Variables
   -  Test: Constants
     
-* How to create strings
+5.</b> How to create strings
    -  Optional: Why does Swift need multi-line strings?
    -  Test: Multi-line strings
      
-* How to store whole numbers
+6.</b> How to store whole numbers
    -  Test: Strings and integers
      
-* How to store decimal numbers
+7.</b> How to store decimal numbers
    -  Optional: Why does Swift need both Doubles and Integers?
  
   #
