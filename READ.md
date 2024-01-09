@@ -173,6 +173,7 @@
 3.</b> How to accept functions as parameters     
    - Optional: Why would you want to use closures as parameters?
    - Test: Closures as parameters
+   - Test: Trailing closure syntax 
  
 
 
