@@ -176,6 +176,8 @@
    - Test: Trailing closure syntax
     
 4.</b> Summary: Closures  
+
+5.</b> Checkpoint 5  
  
 
 
