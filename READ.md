@@ -178,6 +178,13 @@
 4.</b> Summary: Closures  
 
 5.</b> Checkpoint 5  
+
+
+
+
+
+   #
+   - [x] <b>Day 10</b>
  
 
 
