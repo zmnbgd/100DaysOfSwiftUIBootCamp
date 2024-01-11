@@ -185,6 +185,8 @@
 
    #
    - [x] <b>Day 10</b>
+
+ 1.</b> How to create your own structs
  
 
 
