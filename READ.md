@@ -189,6 +189,7 @@
  1.</b> How to create your own structs
   - Optional: What’s the difference between a struct and a tuple?
   - Optional: What’s the difference between a function and a method?
+  - Optional: Why do we need to mark some methods as mutating?
  
 
 
