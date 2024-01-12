@@ -187,7 +187,7 @@
    - [x] <b>Day 10</b>
 
  1.</b> How to create your own structs
-    - Optional: What’s the difference between a struct and a tuple?
+  - Optional: What’s the difference between a struct and a tuple?
  
 
 
