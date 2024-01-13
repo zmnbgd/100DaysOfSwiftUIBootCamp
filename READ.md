@@ -191,6 +191,7 @@
   - Optional: What’s the difference between a function and a method?
   - Optional: Why do we need to mark some methods as mutating?
   - Test: Structs
+  - Test: Mutating methods
  
 
 
