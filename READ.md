@@ -192,6 +192,8 @@
   - Optional: Why do we need to mark some methods as mutating?
   - Test: Structs
   - Test: Mutating methods
+
+ 2.</b> How to compute property values dynamically
  
 
 
