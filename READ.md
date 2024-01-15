@@ -194,6 +194,7 @@
   - Test: Mutating methods
 
  2.</b> How to compute property values dynamically
+  - Optional: When should you use a computed property or a stored property?
  
 
 
