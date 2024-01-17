@@ -196,6 +196,8 @@
  2.</b> How to compute property values dynamically
   - Optional: When should you use a computed property or a stored property?
   - Test: Computed properties
+
+ 3.</b> How to take action when a property changes
  
 
 
