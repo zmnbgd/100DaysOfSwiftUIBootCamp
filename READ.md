@@ -200,6 +200,7 @@
  3.</b> How to take action when a property changes
   - Optional: When should you use property observers?
   - Optional: When should you use willSet rather than didSet?
+  - Test: Property observers
  
 
 
