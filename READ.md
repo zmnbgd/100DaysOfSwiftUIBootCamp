@@ -198,6 +198,7 @@
   - Test: Computed properties
 
  3.</b> How to take action when a property changes
+  - Optional: When should you use property observers? 
  
 
 
