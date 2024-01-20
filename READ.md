@@ -203,6 +203,7 @@
   - Test: Property observers
     
  4.</b> How to create custom initializers
+  - Optional: How do Swift’s memberwise initializers work?
  
 
 
