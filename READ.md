@@ -205,6 +205,7 @@
  4.</b> How to create custom initializers
   - Optional: How do Swift’s memberwise initializers work?
   - Optional: When would you use self in a method?
+  - Test: Initializers
  
 
 
