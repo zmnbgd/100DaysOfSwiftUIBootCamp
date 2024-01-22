@@ -206,6 +206,7 @@
   - Optional: How do Swift’s memberwise initializers work?
   - Optional: When would you use self in a method?
   - Test: Initializers
+  - Test: Referring to the current instance
  
 
 
