@@ -225,4 +225,6 @@
 
   3.</b> Summary: Structs
 
+  4.</b> Checkpoint 6 
+
 
