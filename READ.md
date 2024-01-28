@@ -220,6 +220,7 @@
    - Test: Access control
     
   2.</b> Static properties and methods 
-   - Optional: What’s the point of static properties and methods in Swift? 
+   - Optional: What’s the point of static properties and methods in Swift?
+   - Test: Static properties and methods
 
 
