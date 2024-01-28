@@ -223,4 +223,6 @@
    - Optional: What’s the point of static properties and methods in Swift?
    - Test: Static properties and methods
 
+  3.</b> Summary: Structs
+
 
