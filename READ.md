@@ -234,5 +234,6 @@
    - [x] <b>Day 12</b>
    
   1.</b> How to create your own classes
+   - Optional: Why does Swift have both classes and structs?
 
 
