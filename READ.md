@@ -236,5 +236,6 @@
   1.</b> How to create your own classes
    - Optional: Why does Swift have both classes and structs?
    - Optional: Why don’t Swift classes have a memberwise initializer?
+   - Test: Creating your own classes 
 
 
