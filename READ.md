@@ -241,5 +241,6 @@
 
   2.</b> How to make one class inherit from another 
    - Optional: When would you want to override a method?
+   - Optional: Which classes should be declared as final?
 
 
