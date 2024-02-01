@@ -239,6 +239,7 @@
    - Test: Creating your own classes
      
 
-   2.</b> How to make one class inherit from another 
+  2.</b> How to make one class inherit from another 
+   - Optional: When would you want to override a method?
 
 
