@@ -245,5 +245,5 @@
 
 
   3.</b> How to add initializers for classes  
-
+   - Test: Class inheritance
 
