@@ -247,3 +247,6 @@
   3.</b> How to add initializers for classes  
    - Test: Class inheritance
 
+
+  4.</b> How to copy classes 
+
