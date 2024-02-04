@@ -250,4 +250,5 @@
 
   4.</b> How to copy classes 
    - Optional: Why do copies of a class share their data?
+   - Test: Copying objects 
 
