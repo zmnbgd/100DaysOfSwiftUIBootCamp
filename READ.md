@@ -253,4 +253,4 @@
    - Test: Copying objects 
 
 
-  5.</b>
+  5.</b> How to create a deinitializer for a class
