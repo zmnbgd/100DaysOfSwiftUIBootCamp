@@ -255,3 +255,4 @@
 
   5.</b> How to create a deinitializer for a class
    - Optional: Why do classes have deinitializers and structs don’t?
+   - Test: Deinitializers
