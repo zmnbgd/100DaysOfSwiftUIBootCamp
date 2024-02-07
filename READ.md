@@ -257,4 +257,4 @@
    - Optional: Why do classes have deinitializers and structs don’t?
    - Test: Deinitializers
 
-  6.</b> 
+  6.</b> How to work with variables inside classes
