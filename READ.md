@@ -260,3 +260,6 @@
   6.</b> How to work with variables inside classes
    - Optional: Why can variable properties in constant classes be changed?
    - Test: Mutability
+   - 
+
+  7.</b> Summary: Classes    
