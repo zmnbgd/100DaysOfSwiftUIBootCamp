@@ -264,3 +264,10 @@
   7.</b> Summary: Classes    
 
   8.</b> Checkpoint 7
+
+
+
+
+   #
+   - [x] <b>Day 13</b>
+   
