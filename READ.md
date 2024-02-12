@@ -272,4 +272,5 @@
    - [x] <b>Day 13</b>
 
    1.</b> How to create and use protocols
+    - Optional: Why does Swift need protocols?
    
