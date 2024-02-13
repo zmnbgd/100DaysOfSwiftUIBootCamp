@@ -257,11 +257,14 @@
    - Optional: Why do classes have deinitializers and structs don’t?
    - Test: Deinitializers
 
+
   6.</b> How to work with variables inside classes
    - Optional: Why can variable properties in constant classes be changed?
    - Test: Mutability
 
+
   7.</b> Summary: Classes    
+
 
   8.</b> Checkpoint 7
 
@@ -275,4 +278,7 @@
    
    - Optional: Why does Swift need protocols?
    - Test: Protocols
+
+
+   2.</b> How to use opaque return types
    
