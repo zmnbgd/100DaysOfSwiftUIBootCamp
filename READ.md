@@ -283,5 +283,5 @@
    2.</b> How to use opaque return types
 
    3.</b> How to create and use extensions 
-    - Optional: When should you use extensions in Swift?
+     - Optional: When should you use extensions in Swift?
    
