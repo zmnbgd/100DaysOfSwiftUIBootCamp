@@ -275,14 +275,11 @@
    - [x] <b>Day 13</b>
 
    1.</b> How to create and use protocols
-   
    - Optional: Why does Swift need protocols?
    - Test: Protocols
-
 
    2.</b> How to use opaque return types
 
    3.</b> How to create and use extensions 
-   
-     - Optional: When should you use extensions in Swift?
+    - Optional: When should you use extensions in Swift?
    
