@@ -287,5 +287,5 @@
 
   4.</b> How to create and use protocol extensions
    - Optional: When are protocol extensions useful in Swift?
-   - 
+   - Test: Protocol extensions
    
