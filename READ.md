@@ -293,4 +293,12 @@
   5.</b> Summary: Protocols and extensions
 
   6.</b> Checkpoint 8 
+
+
+
+
+  
+   #
+   - [x] <b>Day 14</b>
+
    
