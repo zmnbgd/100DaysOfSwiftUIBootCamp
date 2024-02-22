@@ -301,4 +301,6 @@
    #
    - [x] <b>Day 14</b>
 
+   1.</b> How to handle missing data with optionals
+
    
