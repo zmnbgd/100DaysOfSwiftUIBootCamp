@@ -302,5 +302,6 @@
    - [x] <b>Day 14</b>
 
    1.</b> How to handle missing data with optionals
+   - Optional: Why does Swift have optionals?
 
    
