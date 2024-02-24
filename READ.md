@@ -303,5 +303,6 @@
 
    1.</b> How to handle missing data with optionals
    - Optional: Why does Swift have optionals?
+   - Optional: Why does Swift make us unwrap optionals?
 
    
