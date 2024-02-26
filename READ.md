@@ -306,4 +306,6 @@
    - Optional: Why does Swift make us unwrap optionals?
    - Test: Unwrapping optionals
 
+   2.</b> How to unwrap optionals with guard
+
    
