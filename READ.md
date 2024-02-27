@@ -307,5 +307,5 @@
    - Test: Unwrapping optionals
 
    2.</b> How to unwrap optionals with guard
-
+   - Optional: Why does Swift have optionals?
    
