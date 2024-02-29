@@ -312,3 +312,4 @@
 
    3.</b> How to unwrap optionals with nil coalescing
    - Optional: When should you use nil coalescing in Swift?
+   - Test: Nil coalescing
