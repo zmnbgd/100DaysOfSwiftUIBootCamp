@@ -313,6 +313,13 @@
    3.</b> How to unwrap optionals with nil coalescing
    - Optional: When should you use nil coalescing in Swift?
    - Test: Nil coalescing
-   - 
 
    4.</b> How to handle multiple optionals using optional chaining
+   - Optional: Why is optional chaining so important? 
+
+
+
+
+
+
+
