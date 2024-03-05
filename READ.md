@@ -319,6 +319,8 @@
    - Test: Optional chaining 
 
 
+   5.</b> How to handle function failure with optionals 
+
 
 
 
