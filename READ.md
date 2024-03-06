@@ -320,7 +320,7 @@
 
 
    5.</b> How to handle function failure with optionals 
-
+   - Optional: When should you use optional try? 
 
 
 
