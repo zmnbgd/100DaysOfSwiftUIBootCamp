@@ -340,6 +340,7 @@
 
   
    #
-   - [x] <b>Day 16</b> Swift review 
+   - [x] <b>Day 16</b> Swift review
 
+   - WeSplit: Introduction
 
