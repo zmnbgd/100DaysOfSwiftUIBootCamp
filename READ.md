@@ -343,4 +343,5 @@
    - [x] <b>Day 16</b> Swift review
 
    - WeSplit: Introduction
+   - Understanding the basic structure of a SwiftUI app
 
