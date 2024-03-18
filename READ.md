@@ -347,4 +347,5 @@
    - Creating a form
    - Adding a navigation bar
    - Modifying program state
+   - Binding state to user interface controls
 
