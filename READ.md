@@ -350,3 +350,10 @@
    - Binding state to user interface controls
    - Creating views in a loop
 
+
+
+  
+   #
+   - [x] <b>Day 17</b>
+
+
