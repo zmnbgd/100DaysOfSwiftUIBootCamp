@@ -357,5 +357,6 @@
    - [x] <b>Day 17</b> Project 1, part two
    
    - Reading text from the user with TextField
+   - Creating pickers in a form
 
 
