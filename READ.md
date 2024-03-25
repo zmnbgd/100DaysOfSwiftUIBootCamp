@@ -360,5 +360,6 @@
    - Creating pickers in a form
    - Adding a segmented control for tip percentages
    - Calculating the total per person
+   - Hiding the keyboard
 
 
