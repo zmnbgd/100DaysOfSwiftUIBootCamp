@@ -363,3 +363,9 @@
    - Hiding the keyboard
 
 
+
+  
+   #
+   - [x] <b>Day 18</b> Project 1, part three
+   
+
