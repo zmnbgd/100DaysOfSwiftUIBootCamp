@@ -368,6 +368,7 @@
    #
    - [x] <b>Day 18</b> Project 1, part three
 
+   - WeSplit: Wrap up 
    - Review for Project 1: WeSplit
    
 
