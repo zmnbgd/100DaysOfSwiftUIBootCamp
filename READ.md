@@ -370,5 +370,11 @@
 
    - WeSplit: Wrap up 
    - Review for Project 1: WeSplit
+
+
+  
+   #
+   - [x] <b>Day 19</b> Challenge day 
+
    
 
