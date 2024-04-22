@@ -385,5 +385,6 @@
      - Guess the Flag: Introduction
      - Using stacks to arrange views
      - Colors and frames
+     - Gradients
    
 
