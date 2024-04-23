@@ -386,5 +386,6 @@
      - Using stacks to arrange views
      - Colors and frames
      - Gradients
+     - Buttons and images
    
 
