@@ -387,5 +387,6 @@
      - Colors and frames
      - Gradients
      - Buttons and images
+     - Showing alert messages
    
 
