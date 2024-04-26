@@ -1,5 +1,5 @@
 ![Header](https://img.shields.io/badge/platform-iOS-lightgrey.svg)
-![Header](https://img.shields.io/badge/completion-019/100-green.svg)
+![Header](https://img.shields.io/badge/completion-020/100-green.svg)
 
 # 100DaysOfSwiftUI
 100 Days Of SwiftUI Challenge by Paul Hudson -> https://www.hackingwithswift.com/100/swiftui
@@ -388,5 +388,14 @@
      - Gradients
      - Buttons and images
      - Showing alert messages
+       
+   
+
+  
+   #
+   - [x] <b>Day 21</b> Project 2, part 1
+       
+     - Stacking up buttons
+
    
 
