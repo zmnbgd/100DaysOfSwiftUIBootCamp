@@ -393,7 +393,7 @@
 
   
    #
-   - [x] <b>Day 21</b> Project 2, part 1
+   - [x] <b>Day 21</b> Project 2, part two
        
      - Stacking up buttons
 
