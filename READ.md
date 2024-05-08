@@ -396,7 +396,8 @@
    - [x] <b>Day 21</b> Project 2, part two
        
      - Stacking up buttons
-     - Showing the player’s score with an alert 
+     - Showing the player’s score with an alert
+     - Styling our flags
 
    
 
