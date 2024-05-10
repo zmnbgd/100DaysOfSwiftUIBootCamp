@@ -399,6 +399,12 @@
      - Showing the player’s score with an alert
      - Styling our flags
      - Upgrading our design 
+       
+   
 
+  
+   #
+   - [x] <b>Day 22</b> Project 2, part three
+       
    
 
