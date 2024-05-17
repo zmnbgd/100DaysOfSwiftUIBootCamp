@@ -415,5 +415,5 @@
    #
    - [x] <b>Day 23</b> Project 3, part one 
 
-   
+     - Views and modifiers: Introduction
 
