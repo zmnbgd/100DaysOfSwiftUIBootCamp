@@ -417,5 +417,6 @@
 
      - Views and modifiers: Introduction
      - Why does SwiftUI use structs for views?
-     - What is behind the main SwiftUI view? 
+     - What is behind the main SwiftUI view?
+     - Why modifier order matters
 
