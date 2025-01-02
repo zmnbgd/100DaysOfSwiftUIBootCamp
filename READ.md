@@ -423,3 +423,9 @@
      - Conditional modifiers
      - Environment modifiers 
 
+
+   #
+   - [x] <b>Day 24</b> Project 3, part two 
+
+     - Views and modifiers: Wrap up
+     
