@@ -428,4 +428,5 @@
    - [x] <b>Day 24</b> Project 3, part two 
 
      - Views and modifiers: Wrap up
+     - Review for Project 3: Views and Modifiers 
      
