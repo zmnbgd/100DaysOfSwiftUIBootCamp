@@ -1,5 +1,5 @@
 ![Header](https://img.shields.io/badge/platform-iOS-lightgrey.svg)
-![Header](https://img.shields.io/badge/completion-022/100-green.svg)
+![Header](https://img.shields.io/badge/completion-025/100-green.svg)
 
 # 100DaysOfSwiftUI
 100 Days Of SwiftUI Challenge by Paul Hudson -> https://www.hackingwithswift.com/100/swiftui
@@ -428,5 +428,10 @@
    - [x] <b>Day 24</b> Project 3, part two 
 
      - Views and modifiers: Wrap up
-     - Review for Project 3: Views and Modifiers 
+     - Review for Project 3: Views and Modifiers
+        
+
+
+   #
+   - [x] <b>Day 25</b> Milestone: Projects 1-3 
      
