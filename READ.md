@@ -436,4 +436,5 @@
    - [x] <b>Day 25</b> Milestone: Projects 1-3
 
      - What you learned
+     - Key points 
      
