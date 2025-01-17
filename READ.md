@@ -443,5 +443,7 @@
    - [x] <b>Day 26</b> Project 4, part one
 
      - BetterRest: Introduction
-     - 
+     - Entering numbers with Stepper
+     - Selecting dates and times with DatePicker
+     - Working with dates
      
