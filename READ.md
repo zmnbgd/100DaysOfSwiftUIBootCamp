@@ -448,3 +448,8 @@
      - Working with dates
      - Training a model with Create ML
      
+
+   #
+   - [x] <b>Day 27</b> Project 4, part two
+         
+      - Building a basic layout
