@@ -454,3 +454,4 @@
          
       - Building a basic layout
       - Connecting SwiftUI to Core ML
+      - Cleaning up the user interface
