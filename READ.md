@@ -454,4 +454,9 @@
          
       - Building a basic layout
       - Connecting SwiftUI to Core ML
-      - Cleaning up the user interface
+      - Cleaning up the user interface     
+
+   #
+   - [x] <b>Day 28</b> Project 4, part three
+         
+      - 
