@@ -466,4 +466,5 @@
    - [x] <b>Day 29</b> Project 5, part one
     
       - Word Scramble: Introduction 
+      - Introducing List, your best friend
       - 
