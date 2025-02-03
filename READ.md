@@ -467,4 +467,5 @@
     
       - Word Scramble: Introduction 
       - Introducing List, your best friend
+      - Loading resources from your app bundle
       - 
