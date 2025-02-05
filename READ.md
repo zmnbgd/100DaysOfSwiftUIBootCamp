@@ -469,3 +469,10 @@
       - Introducing List, your best friend
       - Loading resources from your app bundle
       - Working with strings
+        
+        
+   #
+   - [x] <b>Day 30</b> Project 5, part two
+
+      - Adding to a list of words
+    
