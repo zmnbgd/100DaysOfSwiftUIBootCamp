@@ -475,4 +475,6 @@
    - [x] <b>Day 30</b> Project 5, part two
 
       - Adding to a list of words
+      - Running code when our app launches
+      - 
     
