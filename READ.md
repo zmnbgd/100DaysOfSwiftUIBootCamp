@@ -476,5 +476,5 @@
 
       - Adding to a list of words
       - Running code when our app launches
-      - 
+      - Validating words with UITextChecker
     
