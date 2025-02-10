@@ -477,4 +477,9 @@
       - Adding to a list of words
       - Running code when our app launches
       - Validating words with UITextChecker
-    
+            
+        
+   #
+   - [x] <b>Day 31</b> Project 5, part three
+
+      - 
