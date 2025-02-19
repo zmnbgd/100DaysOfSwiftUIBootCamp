@@ -483,4 +483,9 @@
    - [x] <b>Day 31</b> Project 5, part three
 
       - Review for Project 5: Word Scramble
-      - Word Scramble: Wrap up
+      - Word Scramble: Wrap up            
+        
+   #
+   - [x] <b>Day 32</b> Project 6, part one
+
+      - 
