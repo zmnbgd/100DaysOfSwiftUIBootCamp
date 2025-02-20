@@ -488,4 +488,5 @@
    #
    - [x] <b>Day 32</b> Project 6, part one
 
-      - Animation: Introduction 
+      - Animation: Introduction
+      - Creating implicit animations
