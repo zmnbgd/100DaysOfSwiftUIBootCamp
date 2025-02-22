@@ -490,3 +490,6 @@
 
       - Animation: Introduction
       - Creating implicit animations
+      - Customizing animations in SwiftUI
+      - Animating bindings
+      - Creating explicit animations
