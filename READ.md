@@ -500,7 +500,8 @@
    - [x] <b>Day 33</b> Project 6, part two
 
       - Controlling the animation stack
-      - 
+      - Animating gestures
+      - Showing and hiding views with transitions
 
    
 
