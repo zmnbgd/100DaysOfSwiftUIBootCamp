@@ -503,6 +503,10 @@
       - Animating gestures
       - Showing and hiding views with transitions
       - Building custom transitions using ViewModifier
+        
+                
+   #
+   - [x] <b>Day 34</b> Project 6, part three
 
    
 
