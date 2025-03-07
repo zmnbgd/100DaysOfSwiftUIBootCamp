@@ -508,5 +508,7 @@
    #
    - [x] <b>Day 34</b> Project 6, part three
 
+      - Review for Project 6: Animation
+
    
 
