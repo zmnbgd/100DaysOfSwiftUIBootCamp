@@ -508,7 +508,14 @@
    #
    - [x] <b>Day 34</b> Project 6, part three
 
+      - Animation: Wrap up
       - Review for Project 6: Animation
+               
+                
+   #
+   - [x] <b>Day 35</b> Milestone: Projects 4-6
+ 
+         
 
    
 
