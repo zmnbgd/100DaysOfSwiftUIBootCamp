@@ -181,8 +181,6 @@
 
 
 
-
-
    #
    - [x] <b>Day 10</b>
 
@@ -210,8 +208,6 @@
  
 
 
-
-
    #
    - [x] <b>Day 11</b>
 
@@ -226,8 +222,6 @@
   3.</b> Summary: Structs
 
   4.</b> Checkpoint 6 
-
-
 
 
    #
@@ -269,8 +263,6 @@
   8.</b> Checkpoint 7
 
 
-
-
    #
    - [x] <b>Day 13</b>
 
@@ -293,8 +285,6 @@
   5.</b> Summary: Protocols and extensions
 
   6.</b> Checkpoint 8 
-
-
 
 
   
@@ -329,13 +319,9 @@
    7.</b> Checkpoint 9
 
 
-
-
   
    #
    - [x] <b>Day 15</b> Swift review 
-
-
 
 
   
@@ -352,7 +338,6 @@
 
 
 
-  
    #
    - [x] <b>Day 17</b> Project 1, part two
    
@@ -364,7 +349,6 @@
 
 
 
-  
    #
    - [x] <b>Day 18</b> Project 1, part three
 
@@ -377,7 +361,6 @@
    - [x] <b>Day 19</b> Challenge day 
 
    
-
   
    #
    - [x] <b>Day 20</b> Project 2, part 1
@@ -390,7 +373,6 @@
      - Showing alert messages
        
    
-
   
    #
    - [x] <b>Day 21</b> Project 2, part two
@@ -515,7 +497,7 @@
    #
    - [x] <b>Day 35</b> Milestone: Projects 4-6
  
-         
+      - What you learned
 
    
 
