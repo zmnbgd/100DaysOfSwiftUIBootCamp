@@ -498,6 +498,7 @@
    - [x] <b>Day 35</b> Milestone: Projects 4-6
  
       - What you learned
+      - Key points
 
    
 
