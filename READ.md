@@ -1,5 +1,5 @@
 ![Header](https://img.shields.io/badge/platform-iOS-lightgrey.svg)
-![Header](https://img.shields.io/badge/completion-034/100-green.svg)
+![Header](https://img.shields.io/badge/completion-035/100-green.svg)
 
 # 100DaysOfSwiftUI
 100 Days Of SwiftUI Challenge by Paul Hudson -> https://www.hackingwithswift.com/100/swiftui
@@ -500,6 +500,16 @@
       - What you learned
       - Key points
       - Challenge 
+               
+                
+   #
+   - [x] <b>Day 36</b> Project 7, part one
 
+      - iExpense: Introduction
+      - Using @State with classes
+      - Sharing SwiftUI state with @Observable
+      - Showing and hiding views
+      - 
+ 
    
 
