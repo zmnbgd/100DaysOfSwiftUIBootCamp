@@ -509,6 +509,7 @@
       - Using @State with classes
       - Sharing SwiftUI state with @Observable
       - Showing and hiding views
+      - Deleting items using onDelete()
       - 
  
    
