@@ -512,6 +512,12 @@
       - Deleting items using onDelete()
       - Storing user settings with UserDefaults
       - Archiving Swift objects with Codable
+                       
+                
+   #
+   - [x] <b>Day 37</b> Project 7, part two
+
+      - Building a list we can delete from
  
    
 
