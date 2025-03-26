@@ -518,6 +518,10 @@
    - [x] <b>Day 37</b> Project 7, part two
 
       - Building a list we can delete from
+      - Working with Identifiable items in SwiftUI
+      - Sharing an observed object with a new view
+      - Making changes permanent with UserDefaults
+      - 
  
    
 
