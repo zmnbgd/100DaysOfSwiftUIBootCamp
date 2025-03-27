@@ -521,7 +521,7 @@
       - Working with Identifiable items in SwiftUI
       - Sharing an observed object with a new view
       - Making changes permanent with UserDefaults
-      - 
+      - Final polish
  
    
 
