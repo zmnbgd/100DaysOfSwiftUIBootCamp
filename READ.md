@@ -528,5 +528,6 @@
    - [x] <b>Day 38</b> Project 7, part three
 
       - iExpense: Wrap up
+      - Review for Project 7: iExpense
    
 
