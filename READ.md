@@ -522,6 +522,11 @@
       - Sharing an observed object with a new view
       - Making changes permanent with UserDefaults
       - Final polish
- 
+                        
+                
+   #
+   - [x] <b>Day 38</b> Project 7, part three
+
+      - iExpense: Wrap up
    
 
