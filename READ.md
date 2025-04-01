@@ -535,4 +535,5 @@
    - [x] <b>Day 39</b> Project 8, part one
 
       - Moonshot: Introduction
+      - Resizing images to fit the available space
 
