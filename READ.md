@@ -536,4 +536,6 @@
 
       - Moonshot: Introduction
       - Resizing images to fit the available space
+      - How ScrollView lets us work with scrolling data
+
 
