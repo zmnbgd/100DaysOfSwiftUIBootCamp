@@ -539,5 +539,6 @@
       - How ScrollView lets us work with scrolling data
       - Pushing new views onto the stack using NavigationLink
       - Working with hierarchical Codable data
+      - How to lay out views in a scrolling grid
 
 
