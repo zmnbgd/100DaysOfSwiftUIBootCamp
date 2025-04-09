@@ -540,5 +540,10 @@
       - Pushing new views onto the stack using NavigationLink
       - Working with hierarchical Codable data
       - How to lay out views in a scrolling grid
+                           
+                
+   #
+   - [x] <b>Day 40</b> Project 8, part two
 
+      - Loading a specific kind of Codable data
 
