@@ -548,4 +548,9 @@
       - Loading a specific kind of Codable data
       - Using generics to load any kind of Codable data
       - Formatting our mission view
+                           
+                
+   #
+   - [x] <b>Day 41</b> Project 8, part three
 
+      - Showing mission details with ScrollView and containerRelativeFrame()
