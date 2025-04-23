@@ -1,5 +1,5 @@
 ![Header](https://img.shields.io/badge/platform-iOS-lightgrey.svg)
-![Header](https://img.shields.io/badge/completion-039/100-green.svg)
+![Header](https://img.shields.io/badge/completion-040/100-green.svg)
 
 # 100DaysOfSwiftUI
 100 Days Of SwiftUI Challenge by Paul Hudson -> https://www.hackingwithswift.com/100/swiftui
@@ -546,4 +546,6 @@
    - [x] <b>Day 40</b> Project 8, part two
 
       - Loading a specific kind of Codable data
+      - Using generics to load any kind of Codable data
+      - Formatting our mission view
 
