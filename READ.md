@@ -554,3 +554,5 @@
    - [x] <b>Day 41</b> Project 8, part three
 
       - Showing mission details with ScrollView and containerRelativeFrame()
+      - Merging Codable structs
+      - 
