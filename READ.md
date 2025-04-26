@@ -555,4 +555,4 @@
 
       - Showing mission details with ScrollView and containerRelativeFrame()
       - Merging Codable structs
-      - 
+      - Finishing up with one last view
