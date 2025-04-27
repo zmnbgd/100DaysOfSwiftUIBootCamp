@@ -556,3 +556,10 @@
       - Showing mission details with ScrollView and containerRelativeFrame()
       - Merging Codable structs
       - Finishing up with one last view
+        
+                                   
+                
+   #
+   - [x] <b>Day 41</b> Project 8, part four
+
+      - 
