@@ -562,5 +562,5 @@
    #
    - [x] <b>Day 41</b> Project 8, part four
 
-      - 
+      - Moonshot: Wrap up
       - Review for Project 8: Moonshot
