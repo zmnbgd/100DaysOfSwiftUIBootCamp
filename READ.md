@@ -1,5 +1,5 @@
 ![Header](https://img.shields.io/badge/platform-iOS-lightgrey.svg)
-![Header](https://img.shields.io/badge/completion-040/100-green.svg)
+![Header](https://img.shields.io/badge/completion-042/100-green.svg)
 
 # 100DaysOfSwiftUI
 100 Days Of SwiftUI Challenge by Paul Hudson -> https://www.hackingwithswift.com/100/swiftui
@@ -560,7 +560,14 @@
                                    
                 
    #
-   - [x] <b>Day 41</b> Project 8, part four
+   - [x] <b>Day 42</b> Project 8, part four
 
       - Moonshot: Wrap up
       - Review for Project 8: Moonshot
+                
+                                   
+                
+   #
+   - [x] <b>Day 43</b> Project 9, part one
+
+      - Navigation: Introduction
