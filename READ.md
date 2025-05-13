@@ -571,3 +571,5 @@
    - [x] <b>Day 43</b> Project 9, part one
 
       - Navigation: Introduction
+      - The problem with a simple NavigationLink
+      - 
