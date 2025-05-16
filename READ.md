@@ -572,4 +572,10 @@
 
       - Navigation: Introduction
       - The problem with a simple NavigationLink
+                        
+                                   
+                
+   #
+   - [x] <b>Day 44</b> Project 9, part two
+
       - 
