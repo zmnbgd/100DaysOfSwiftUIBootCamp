@@ -572,6 +572,7 @@
 
       - Navigation: Introduction
       - The problem with a simple NavigationLink
+      - Navigating to different data types using NavigationPath
                         
                                    
                 
