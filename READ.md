@@ -580,3 +580,4 @@
    - [x] <b>Day 44</b> Project 9, part two
 
       - Programmatic navigation with NavigationStack
+      - Navigating to different data types using NavigationPath
