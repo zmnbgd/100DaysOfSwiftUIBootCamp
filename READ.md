@@ -582,3 +582,6 @@
       - Programmatic navigation with NavigationStack
       - Navigating to different data types using NavigationPath
       - How to make a NavigationStack return to its root view programmatically
+      - How to save NavigationStack paths using Codable
+        
+        
