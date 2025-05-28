@@ -584,4 +584,9 @@
       - How to make a NavigationStack return to its root view programmatically
       - How to save NavigationStack paths using Codable
         
-        
+                                
+   #
+   - [x] <b>Day 45</b> Project 9, part three
+
+      - 
+
