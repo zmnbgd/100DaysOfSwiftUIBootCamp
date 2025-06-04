@@ -589,5 +589,6 @@
    - [x] <b>Day 45</b> Project 9, part three
 
       - Customizing the navigation bar appearance
-      - 
+      - Placing toolbar buttons in exact locations
+      - Making your navigation title editable 
 
