@@ -604,6 +604,7 @@
    - [x] <b>Day 47</b> Milestone: Projects 7-9
 
        - What you learned
+       - Key points
                                 
    #
    - [x] <b>Day 48</b> Expanding your horizons 
