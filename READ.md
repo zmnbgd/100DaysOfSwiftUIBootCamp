@@ -605,6 +605,14 @@
 
        - What you learned
        - Key points
+
                                 
    #
-   - [x] <b>Day 48</b> Expanding your horizons 
+   - [x] <b>Day 48</b> Expanding your horizons
+
+        
+                                
+   #
+   - [x] <b>Day 49</b> Project 10, part one
+
+       - Cupcake Corner: Introduction
