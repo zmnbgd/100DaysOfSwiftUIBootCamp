@@ -618,3 +618,4 @@
        - Cupcake Corner: Introduction
        - Sending and receiving Codable data with URLSession and SwiftUI
        - Loading an image from a remote server
+       - Validating and disabling forms
