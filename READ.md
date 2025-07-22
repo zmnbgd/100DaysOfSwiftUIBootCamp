@@ -619,3 +619,10 @@
        - Sending and receiving Codable data with URLSession and SwiftUI
        - Loading an image from a remote server
        - Validating and disabling forms
+       - 
+        
+                                
+   #
+   - [x] <b>Day 50</b> Project 10, part two
+
+       - Adding Codable conformance to an @Observable class
