@@ -626,3 +626,4 @@
    - [x] <b>Day 50</b> Project 10, part two
 
        - Adding Codable conformance to an @Observable class
+       - Adding haptic effects
