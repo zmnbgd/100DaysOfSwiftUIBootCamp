@@ -627,3 +627,4 @@
 
        - Adding Codable conformance to an @Observable class
        - Adding haptic effects
+       - Taking basic order details
