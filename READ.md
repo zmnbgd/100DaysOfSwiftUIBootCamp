@@ -635,4 +635,5 @@
    - [x] <b>Day 51</b> Project 10, part three
 
        - Checking for a valid address
-       - Preparing for checkout 
+       - Preparing for checkout
+       - Sending and receiving orders over the internet
