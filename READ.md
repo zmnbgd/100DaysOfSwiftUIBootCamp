@@ -652,6 +652,7 @@
        - Bookworm: Introduction
        - Creating a custom component with @Binding
        - Accepting multi-line text input with TextEditor
+       - Introduction to SwiftData and SwiftUI
 
 
 
