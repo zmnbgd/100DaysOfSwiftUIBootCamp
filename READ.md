@@ -653,8 +653,12 @@
        - Creating a custom component with @Binding
        - Accepting multi-line text input with TextEditor
        - Introduction to SwiftData and SwiftUI
+                
+                                
+   #
+   - [x] <b>Day 54</b> Project 11, part two
 
-
+       - 
 
 
 
