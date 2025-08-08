@@ -658,7 +658,7 @@
    #
    - [x] <b>Day 54</b> Project 11, part two
 
-       - 
+       - Creating books with SwiftData
 
 
 
