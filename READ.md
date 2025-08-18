@@ -660,6 +660,7 @@
 
        - Creating books with SwiftData
        - Adding a custom star rating component
+       - Building a list with @Query
 
 
 
