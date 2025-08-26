@@ -661,6 +661,10 @@
        - Creating books with SwiftData
        - Adding a custom star rating component
        - Building a list with @Query
+                
+                                
+   #
+   - [x] <b>Day 55</b> Project 11, part three
 
 
 
