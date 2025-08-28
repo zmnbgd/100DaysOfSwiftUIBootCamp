@@ -665,6 +665,8 @@
                                 
    #
    - [x] <b>Day 55</b> Project 11, part three
+       
+       -  Showing book details
 
 
 
