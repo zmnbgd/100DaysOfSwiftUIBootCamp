@@ -668,6 +668,7 @@
        
        -  Showing book details
        -  Sorting SwiftData queries using SortDescriptor
+       -  Deleting from a SwiftData query
 
 
 
