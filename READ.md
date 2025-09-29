@@ -669,6 +669,7 @@
        -  Showing book details
        -  Sorting SwiftData queries using SortDescriptor
        -  Deleting from a SwiftData query
+       -  Using an alert to pop a NavigationLink programmatically
 
 
 
