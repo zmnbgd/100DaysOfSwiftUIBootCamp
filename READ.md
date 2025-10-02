@@ -670,8 +670,13 @@
        -  Sorting SwiftData queries using SortDescriptor
        -  Deleting from a SwiftData query
        -  Using an alert to pop a NavigationLink programmatically
-
-
+                
+                                
+   #
+   - [x] <b>Day 56</b> Project 11, part four
+       
+       -  Bookworm: Wrap up
+       -  Challenge 1. 
 
 
 
