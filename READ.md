@@ -676,7 +676,8 @@
    - [x] <b>Day 56</b> Project 11, part four
        
        -  Bookworm: Wrap up
-       -  Challenge 1. 
+       -  Challenge 1.
+       -  Challenge 2.
 
 
 
