@@ -680,7 +680,13 @@
        -  Challenge 2.
        -  Challenge 3.
        -  Review for Project 11: Bookworm
+                
+                                
+   #
+   - [x] <b>Day 57</b> Project 12, part one
 
+       -  
+       
 
 
 
